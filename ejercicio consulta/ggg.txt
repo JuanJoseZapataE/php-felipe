@@ -1,0 +1,11 @@
+realizar un menu con los botones ingresar, consulta general y consulta individual (documento), para la siguiente tabla
+
+
+paciente
+ documento
+ nombre
+ apellido
+ dirección
+ teléfono
+ medico
+ eps
